@@ -1,2 +1,2 @@
 # shuffle-spotify
-Creates a shuffles playlist of what you are listening to on Spotify.
+Creates a shuffled playlist of what you are listening to on Spotify
