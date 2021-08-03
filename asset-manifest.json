@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/shuffle-spotify/static/css/main.fcc19214.chunk.css",
-    "main.js": "/shuffle-spotify/static/js/main.4734969e.chunk.js",
-    "main.js.map": "/shuffle-spotify/static/js/main.4734969e.chunk.js.map",
-    "runtime-main.js": "/shuffle-spotify/static/js/runtime-main.cb21d572.js",
-    "runtime-main.js.map": "/shuffle-spotify/static/js/runtime-main.cb21d572.js.map",
+    "main.css": "/shuffle-spotify/static/css/main.c7c3810c.chunk.css",
+    "main.js": "/shuffle-spotify/static/js/main.a1b3bfd8.chunk.js",
+    "main.js.map": "/shuffle-spotify/static/js/main.a1b3bfd8.chunk.js.map",
+    "runtime-main.js": "/shuffle-spotify/static/js/runtime-main.4d6074ce.js",
+    "runtime-main.js.map": "/shuffle-spotify/static/js/runtime-main.4d6074ce.js.map",
     "static/js/2.69d1c6e2.chunk.js": "/shuffle-spotify/static/js/2.69d1c6e2.chunk.js",
     "static/js/2.69d1c6e2.chunk.js.map": "/shuffle-spotify/static/js/2.69d1c6e2.chunk.js.map",
-    "static/js/3.32afe5d8.chunk.js": "/shuffle-spotify/static/js/3.32afe5d8.chunk.js",
-    "static/js/3.32afe5d8.chunk.js.map": "/shuffle-spotify/static/js/3.32afe5d8.chunk.js.map",
     "index.html": "/shuffle-spotify/index.html",
-    "static/css/main.fcc19214.chunk.css.map": "/shuffle-spotify/static/css/main.fcc19214.chunk.css.map",
+    "static/css/main.c7c3810c.chunk.css.map": "/shuffle-spotify/static/css/main.c7c3810c.chunk.css.map",
     "static/js/2.69d1c6e2.chunk.js.LICENSE.txt": "/shuffle-spotify/static/js/2.69d1c6e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb21d572.js",
+    "static/js/runtime-main.4d6074ce.js",
     "static/js/2.69d1c6e2.chunk.js",
-    "static/css/main.fcc19214.chunk.css",
-    "static/js/main.4734969e.chunk.js"
+    "static/css/main.c7c3810c.chunk.css",
+    "static/js/main.a1b3bfd8.chunk.js"
   ]
 }

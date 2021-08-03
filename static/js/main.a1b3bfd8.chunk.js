@@ -1,2 +1,2 @@
 (this["webpackJsonpshuffle-spotify"]=this["webpackJsonpshuffle-spotify"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var s=n(1),c=n.n(s),i=n(3),r=n.n(i),f=(n(8),n(0));var o=function(){return Object(f.jsx)("div",{className:"App",children:Object(f.jsx)("h1",{id:"title",children:"Shuffle Spotify"})})};r.a.render(Object(f.jsx)(c.a.StrictMode,{children:Object(f.jsx)(o,{})}),document.getElementById("root"))},8:function(e,t,n){}},[[10,1,2]]]);
-//# sourceMappingURL=main.4734969e.chunk.js.map
+//# sourceMappingURL=main.a1b3bfd8.chunk.js.map
