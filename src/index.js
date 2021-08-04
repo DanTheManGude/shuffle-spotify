@@ -14,4 +14,6 @@ ReactDOM.render(
   document.getElementById("root")
 );
 
+console.log(`Git hash: ${process.env.REACT_APP_VERSION}`);
+
 //reportWebVitals();

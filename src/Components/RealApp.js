@@ -1,8 +1,8 @@
 import React from "react";
 
-function Home() {
+function RealApp() {
   return (
-    <div className="Home">
+    <div className="RealApp">
       <p className="regText">some auth stuff I guess</p>
       <button className="regText" onClick={() => console.log("Lemme get that auth")}>
         Get auth
@@ -11,4 +11,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default RealApp;
