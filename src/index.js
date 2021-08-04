@@ -1,15 +1,14 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { BrowserRouter } from "react-router-dom";
 import App from "./Components/App";
 import "./index.css";
 //import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
-      <App />
-    </BrowserRouter>
+    <h1 id="title">Shuffle Spotify</h1>
+    <h3 id="subtitle">Creates a shuffled playlist of what you are listening to on Spotify</h3>
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );

@@ -30,7 +30,7 @@ body {
   transition-duration: 0.3s, 0.3s, 0.3s, 0.3s, 0.3s;
   transition-property: background-color, border-color, color, box-shadow, filter;
   vertical-align: middle;
-  width: 150px;
+  width: 130px;
 }
 
 .authButton:hover {
@@ -53,4 +53,8 @@ body {
 
 .adminText {
   color: #526fff;
+}
+
+.errorText {
+  color: #dc3545;
 }
