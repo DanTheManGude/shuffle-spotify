@@ -62,6 +62,10 @@ body {
   color: #dc3545;
 }
 
+.successText {
+  color: #1db954;
+}
+
 .shuffleButton {
   background-color: transparent;
   border-color: transparent;
