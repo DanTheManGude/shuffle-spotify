@@ -28,7 +28,7 @@ body {
   font-size: 18px;
   height: 40px;
   transition-duration: 0.3s, 0.3s, 0.3s, 0.3s, 0.3s;
-  transition-property: background-color, border-color, color, box-shadow, filter;
+  transition-property: background-color, border-color, color;
   vertical-align: middle;
   width: 130px;
 }
