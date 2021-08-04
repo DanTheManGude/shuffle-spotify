@@ -3,7 +3,7 @@ import React from "react";
 function Admin() {
   return (
     <div className="Admin">
-      <h4 className="regText">Admin</h4>
+      <p className="adminText">Git hash: {process.env.REACT_APP_VERSION}</p>
     </div>
   );
 }

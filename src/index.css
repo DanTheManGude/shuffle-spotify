@@ -15,19 +15,21 @@ body {
     "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
 }
 
 #title {
-  text-align: center;
   color: #2fdf65;
 }
 
 #subtitle {
-  text-align: center;
   color: #eee;
 }
 
 .regText {
-  text-align: center;
   color: #eee;
+}
+
+.adminText {
+  color: #526fff;
 }
