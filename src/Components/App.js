@@ -36,7 +36,7 @@ function App() {
   const authorization = calculateAuthorization();
 
   if (authorization === -1) {
-    return <p className="errorText">Sorry, it looks like an error occurred</p>;
+    return <p className="regText errorText">Sorry, it looks like an error occurred</p>;
   }
 
   if (authorization === 0) {

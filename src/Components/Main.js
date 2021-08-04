@@ -6,7 +6,11 @@ function Main(props) {
     hashItems: { access_token },
   } = props;
 
-  return <p className="regText">Something Amazing I guess</p>;
+  return (
+    <button className="shuffleButton" onClick={() => {}}>
+      Activate Shuffle
+    </button>
+  );
 }
 
 export default Main;

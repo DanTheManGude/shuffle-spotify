@@ -17,20 +17,26 @@ body {
   color: #2fdf65;
 }
 
+.regText {
+  color: #eee;
+  font-size: 18px;
+}
+
 .authButton {
   background-color: #1db954;
   border-color: rgb(21, 133, 60);
   border-radius: 500px;
-  border-bottom-style: solid;
+  border-style: solid;
   color: rgb(248, 248, 248);
   cursor: pointer;
   font-family: Circular, Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  height: 40px;
+  font-size: 30px;
+  font-weight: bold;
+  height: 65px;
   transition-duration: 0.3s, 0.3s, 0.3s, 0.3s, 0.3s;
   transition-property: background-color, border-color, color;
   vertical-align: middle;
-  width: 130px;
+  width: 250px;
 }
 
 .authButton:hover {
@@ -38,17 +44,14 @@ body {
   border-color: rgb(26, 163, 74);
 }
 
-.authButton:focus {
+.authButton:active {
   background-color: #1aa34a;
   border-color: rgb(8, 53, 24);
 }
 
 #subtitle {
   color: #eee;
-}
-
-.regText {
-  color: #eee;
+  padding-bottom: 40px;
 }
 
 .adminText {
@@ -57,4 +60,33 @@ body {
 
 .errorText {
   color: #dc3545;
+}
+
+.shuffleButton {
+  background-color: transparent;
+  border-color: transparent;
+  border-radius: 500px;
+  border-style: solid;
+  border-width: 3px;
+  color: rgb(248, 248, 248);
+  border-color: rgb(255, 255, 255);
+  cursor: pointer;
+  font-family: Circular, Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  height: 65px;
+  transition-duration: 0.3s, 0.3s, 0.3s, 0.3s, 0.3s;
+  transition-property: background-color, border-color, color;
+  vertical-align: middle;
+  width: 300px;
+}
+
+.shuffleButton:hover {
+  background-color: rgba(255, 255, 255, 0.89);
+  color: black;
+}
+
+.shuffleButton:active {
+  background-color: rgba(255, 255, 255, 0.623);
+  color: black;
 }
