@@ -2,9 +2,9 @@ import React from "react";
 import * as PropTypes from "prop-types";
 
 function Main(props) {
-  const { hashItems } = props;
-
-  console.log(hashItems);
+  const {
+    hashItems: { access_token },
+  } = props;
 
   return <p className="regText">Something Amazing I guess</p>;
 }

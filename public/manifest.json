@@ -1,6 +1,6 @@
 {
   "short_name": "Shuffle Spotify",
-  "name": "Shuffled playlist of Spotify",
+  "name": "Shuffle current listening on Spotify",
   "icons": [
     {
       "src": "favicon.ico",
