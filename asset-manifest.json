@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shuffle-spotify/static/css/main.048f2e78.chunk.css",
-    "main.js": "/shuffle-spotify/static/js/main.a4ee2482.chunk.js",
-    "main.js.map": "/shuffle-spotify/static/js/main.a4ee2482.chunk.js.map",
+    "main.js": "/shuffle-spotify/static/js/main.663b1b65.chunk.js",
+    "main.js.map": "/shuffle-spotify/static/js/main.663b1b65.chunk.js.map",
     "runtime-main.js": "/shuffle-spotify/static/js/runtime-main.4d6074ce.js",
     "runtime-main.js.map": "/shuffle-spotify/static/js/runtime-main.4d6074ce.js.map",
     "static/js/2.f7974bab.chunk.js": "/shuffle-spotify/static/js/2.f7974bab.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.4d6074ce.js",
     "static/js/2.f7974bab.chunk.js",
     "static/css/main.048f2e78.chunk.css",
-    "static/js/main.a4ee2482.chunk.js"
+    "static/js/main.663b1b65.chunk.js"
   ]
 }
