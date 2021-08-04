@@ -21,3 +21,13 @@ body {
   text-align: center;
   color: #2fdf65;
 }
+
+#subtitle {
+  text-align: center;
+  color: #eee;
+}
+
+.regText {
+  text-align: center;
+  color: #eee;
+}
