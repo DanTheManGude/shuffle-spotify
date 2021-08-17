@@ -22,8 +22,11 @@ function Main(props) {
             },
             body: "",
           })
-            .then((response) => setResponseCode(response.status))
-            .catch(console.error);
+            .then((response) => {
+              setResponseCode(response.status);
+              alert(JSON.stringify(response));
+            })
+            .catch((response) => alert(JSON.stringify(response)));
         }}
       >
         Activate Shuffle
